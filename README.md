@@ -1,12 +1,3 @@
----
-title: "myope2"
-output: 
-  html_document:
-    keep_md: yes
----
-
-
-
 Code and simulated data for the article **Age and sex-specific risks of myocarditis and pericarditis following Covid-19 messenger RNA Vaccines** by Le Vu et al., available at https://www.nature.com/articles/s41467-022-31401-5
 
 
